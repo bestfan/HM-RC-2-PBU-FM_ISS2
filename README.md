@@ -6,6 +6,10 @@ With this sketch you can turn a HM-LC-Sw1PBU-FM or ISS2 (Wireless Switch Actuato
 brand switch systems) to a HM-RC-2-PBU-FM (Wireless Remote Control 2-channel for
 brand switch systems).
 
+## Credits
+
+Thanks to [jp112sdl](https://github.com/jp112sdl) for providing the example sketch of the [HM-RC-2-PBU-FM](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-RC-2-PBU-FM/HM-RC-2-PBU-FM.ino) on the original hardware.
+
 ## Disclaimer
 
 The usage of the published software and information is at your own risk and without any warranty.
