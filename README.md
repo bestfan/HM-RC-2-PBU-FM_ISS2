@@ -1,9 +1,9 @@
 # HM-RC-2-PBU-FM_ISS2
 
-### HM-RC-2-PBU-FM on HM-LC-Sw1PBU-FM or RWE/Innogy/Livisi ISS2 hardware
+### HM-RC-2-PBU-FM on RWE/Innogy/Livisi ISS2 hardware
 
-With this sketch you can turn a HM-LC-Sw1PBU-FM or RWE/Innogy/Livisi ISS2 (Wireless Switch Actuator 1-channel for
-brand switch systems) to a HM-RC-2-PBU-FM (Wireless Remote Control 2-channel for
+With this sketch you can turn a RWE/Innogy/Livisi ISS2 or a HM-LC-Sw1PBU-FM (Wireless Switch Actuator 1-channel for
+brand switch systems) into a HM-RC-2-PBU-FM (Wireless Remote Control 2-channel for
 brand switch systems).
 
 ## Credits
